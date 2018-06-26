@@ -131,7 +131,7 @@ echo -e "$white"'M  MMMMM  MM M  MMMMM  MM MMMMMMM.  M M  MMMMM  MM  88 Y8ooooo.
 echo -e "$white"'M  MMMMM  MM M  MMMMM  MM M. .MMM"  M M  MMMMM  MM  88       88 88    88                                               '
 echo -e "$white"'M  MMMMM  MM M  MMMMM  MM Mb.     .dM M  MMMMM  MM  dP `88888P" dP    dP                                               '
 echo -e "$white"'MMMMMMMMMMMM MMMMMMMMMMMM MMMMMMMMMMM MMMMMMMMMMMM                                                                     '
-echo -e ""$white"                                                   "$grey"by "$red"Cyberage Technologies                                            "
+echo -e ""$white"                                                   "$grey"by "$red"xpelican                                            "
 echo -e ""$darkgrey"||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||"
 echo -e ""$grey"An automated hash-cracking and wordlist permutation tool                                                               "
 echo -e ""$darkgrey"||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||"$red"/"$darkgrey"|||||"
